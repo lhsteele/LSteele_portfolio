@@ -2855,6 +2855,14 @@ input, select, textarea {
     opacity: 0.5;
   }
 
+  .github-link {
+    margin-left: 20px;
+  }
+
+  .project-links {
+    font-size: 16px;
+  }
+
 /* Footer */
 
 	#footer {
